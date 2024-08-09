@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Design, Computer Science as a course
 - 💞️ I’m looking to collaborate on Web, Logo, and Brand Identity Design Creation
 - 📫 How to reach me on Instagram @thedavidalfred
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
